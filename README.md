@@ -1,5 +1,3 @@
-# weather-dashboard
-
 Weather Dashboard
 Project Overview
 The Weather Dashboard is a web-based application designed to provide real-time weather information and tips based on the user's chosen city. It utilizes the OpenWeatherMap API to fetch current weather data and displays it alongside custom tips from a local JSON file.
